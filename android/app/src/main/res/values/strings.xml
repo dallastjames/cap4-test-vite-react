@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cap4-test-vite-react</string>
+    <string name="title_activity_main">cap4-test-vite-react</string>
+    <string name="package_name">com.dallastjames.cap4testvitereact</string>
+    <string name="custom_url_scheme">com.dallastjames.cap4testvitereact</string>
+</resources>
